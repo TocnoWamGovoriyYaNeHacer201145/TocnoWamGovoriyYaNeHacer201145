@@ -15,3 +15,5 @@ saw an option to log in with GitHub, ended up registering here, but every year I
 - No, I do everything alone or with close friends
 ## What modules do I know? 
 - At the moment, I know turtle and optimum well (because I was interested in Neural Networks at one time), now I am studying PyQT5 and Tkinter.
+
+### And please, do NOT follow me
