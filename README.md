@@ -9,7 +9,7 @@ saw an option to log in with GitHub, ended up registering here, but every year I
 
 # What am I doing in the community now? 
 - Translate Node.js from English into Russian at Crodwin.
-- Developing the RANDG language (although no one will know about it)
+- Developing the USharp language (although no one will know about it)
 
 ## Am I ready to do a project with someone? 
 - No, I do everything alone or with close friends
