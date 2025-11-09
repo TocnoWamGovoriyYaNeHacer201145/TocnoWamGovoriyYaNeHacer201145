@@ -8,7 +8,7 @@ It's a fun moment when I tried to log in to my account in Minecraft (Microsoft) 
 saw an option to log in with GitHub, ended up registering here, but every year I started using it more and more. 
 
 # What am I doing in the community now? 
-- Translating Node.js from English into Russian at Crodwin.
+- Translating Node.js from English into Russian at Crowdin.
 - Developing the USharp, RANDG language (although no one will know about them)
 
 ## Am I ready to do a project with someone? 
