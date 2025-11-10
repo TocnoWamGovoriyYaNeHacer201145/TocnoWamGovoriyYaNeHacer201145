@@ -1,7 +1,8 @@
 # Hi there!
 I'm a beginner Python developer (I've been learning it for 1 year), 
 now I'm also trying C and writing programs for fun or making lighter versions of tools 
-for those who aren't programmers or don't understand code. 
+for those who aren't programmers or don't understand code.
+P.S. I hate Neural networks (AI)
 
 # How did I find out about GitHub? 
 It's a fun moment when I tried to log in to my account in Minecraft (Microsoft) and 
