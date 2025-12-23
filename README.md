@@ -15,4 +15,4 @@ saw an option to log in with GitHub, ended up registering here, but every year I
 - No at the moment.
 
 ## What modules do I know? 
-- At the moment, I know turtle and optimum well (because I was interested in Neural Networks at one time), now I am exploring CPython (Python interpreter).
+- At the moment, I know turtle and optimum well (because I was interested in Neural Networks at one time).
